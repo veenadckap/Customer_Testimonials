@@ -1,0 +1,32 @@
+#heading{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   padding-top:5% ;
+}
+
+#line{
+    width: 28%;
+    height: 3px;
+    background-color: rgb(44, 114, 206);
+    border-radius: 10%;
+}
+
+h2 #line{
+    margin-left: 32%;
+    margin-top: 2%;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    
+}
+
+#contain{
+    width: 49%;
+    height: 301px;
+     background-color: #FFFF;
+     box-shadow: -1px 2px 0px 0px darkgray;
+}
